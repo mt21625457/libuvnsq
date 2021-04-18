@@ -3,6 +3,8 @@ Async C++ client library for [NSQ][1]
 
 This project has done the compiler optimization to the original project UVNSQ, has added the example
 
+This project is based on [uvnsq](https://github.com/wlgq2/uvnsq)
+
 ## BUILD
 
 ```
